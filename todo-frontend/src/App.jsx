@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const API_URL = "https://truonglp-shop.onrender.com";
+const API_URL = "https://truonglpshop.onrender.com";
 const PRODUCT_API = "https://dummyjson.com/products?limit=30";
 
 const BANK_ID = "MB";

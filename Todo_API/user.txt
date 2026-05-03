@@ -1,0 +1,9 @@
+{
+  "email": "truonglp1502@gmail.com",
+  "password": "123456"
+}
+
+
+mysql -u root -p
+
+root/root
